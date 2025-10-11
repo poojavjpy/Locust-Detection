@@ -5,8 +5,7 @@
 ## 📌 Project Overview
 
 This is the official repository for my research paper 
-### "Enhanced Locust Detection in Smart Farming using YOLOv5 and YOLOv8: A Comparative Performance Evaluation"         
-which is still unpublished. This project aims to detect locusts in images using YOLOv5 and YOLOv8 models. The dataset has been curated, annotated and augmentated specifically for this task.
+### "Enhanced Locust Detection in Smart Farming Using YOLOv5 and YOLOv8 with Data Augmentation: A Comparative Performance Evaluation" with DOI 10.48084/etasr.11843 . This study aims to detect locusts in images using YOLOv5 and YOLOv8 models. The dataset has been curated, annotated and augmentated specifically for this task.
 This repository presents a comparative evaluation of YOLOv5 and YOLOv8 for locust detection. The study was conducted on:
 
 1️⃣ A curated dataset specifically prepared for locust detection.
