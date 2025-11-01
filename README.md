@@ -140,6 +140,7 @@ We trained and tested YOLOv5 and YOLOv8 on:
 ✔ Train YOLOv8
 
 results = model.train(
+
     data=dataset_yaml_path,  # Use the correct path here
     epochs=60,
     batch=16,
